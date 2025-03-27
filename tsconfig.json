@@ -1,14 +1,14 @@
 {
   "compilerOptions": {
     "target": "ES5",
-    "module": "UMD",
+    "module": "ESNext",
     "outDir": "./dist",
     "declaration": true,
     "sourceMap": true,
     "strict": true,
     "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true
   },
   "include": ["src/**/*"]
 }
